@@ -1,5 +1,4 @@
-//Name:Rahma Shareef, ID:1805686, Section number: DCR, Email:rqaseem@stu.kau.edu.sa,Course Number: CPCS-202,
-//Title: The Game of Hangman, Date: December 5,2018
+
 import java.util.Scanner;
 
 public class Hangman_Game {
